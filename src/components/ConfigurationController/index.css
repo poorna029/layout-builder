@@ -1,0 +1,21 @@
+.cc {
+  background-color: #475569;
+  width: 100vw;
+  height: 30vh;
+  padding: 30px 10%;
+}
+
+input {
+  width: 18px;
+  height: 18px;
+}
+
+.check {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+label {
+  padding-bottom: 5px;
+}
